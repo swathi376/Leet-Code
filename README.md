@@ -41,6 +41,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/swathi376/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/swathi376/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swathi376/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swathi376/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
