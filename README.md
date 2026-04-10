@@ -22,6 +22,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/swathi376/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/swathi376/Leet-Code/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -51,4 +52,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/swathi376/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/swathi376/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
