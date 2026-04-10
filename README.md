@@ -7,6 +7,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/swathi376/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swathi376/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/swathi376/Leet-Code/tree/main/0169-majority-element/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swathi376/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Binary Search
@@ -73,4 +74,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/swathi376/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swathi376/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
