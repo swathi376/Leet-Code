@@ -15,6 +15,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/swathi376/Leet-Code/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/swathi376/Leet-Code/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/swathi376/Leet-Code/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
