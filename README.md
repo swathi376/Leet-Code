@@ -12,4 +12,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/swathi376/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/swathi376/Leet-Code/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
