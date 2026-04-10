@@ -35,4 +35,20 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/swathi376/Leet-Code/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swathi376/Leet-Code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
