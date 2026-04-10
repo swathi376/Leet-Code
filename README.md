@@ -7,6 +7,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/swathi376/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/swathi376/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
